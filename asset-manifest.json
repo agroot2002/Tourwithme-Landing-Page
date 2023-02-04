@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.69f66991.css",
-    "main.js": "/static/js/main.cab88747.js",
-    "static/media/Main.png": "/static/media/Main.1cec26612aec68a526b4.png",
-    "static/media/Sports 3.png": "/static/media/Sports 3.63ee458a87d454abd7dc.png",
-    "static/media/Sports 1.png": "/static/media/Sports 1.d4598665d0996e308eda.png",
-    "static/media/Sports 2.png": "/static/media/Sports 2.c32691d1137206d821fa.png",
-    "static/media/thailand.jpeg": "/static/media/thailand.b61105043a6c7bde9844.jpeg",
-    "static/media/maldives.jpeg": "/static/media/maldives.67e17c4bf668eaeab930.jpeg",
-    "static/media/quote.png": "/static/media/quote.1ef7e71df34e99647c4e.png",
-    "static/media/bali.jpeg": "/static/media/bali.d430ae555a5a773b3734.jpeg",
-    "static/media/footer.png": "/static/media/footer.ffc6901a3646a3262ee4.png",
-    "static/media/Scuba Diving txt.svg": "/static/media/Scuba Diving txt.adad577533ddd3768ee0e765b70f2437.svg",
-    "static/media/Sports txt.svg": "/static/media/Sports txt.dc41e3cc62685eeaed4e77ccf4a78d04.svg",
-    "static/media/Logo.png": "/static/media/Logo.beedd9891941c9d19540.png",
-    "static/media/Sky diving txt.svg": "/static/media/Sky diving txt.857cd48f449b155ed6d920fe15eee817.svg",
-    "static/media/Surfing txt.svg": "/static/media/Surfing txt.e4f28916dd1f3db4e980fe71708aa031.svg",
-    "index.html": "/index.html",
-    "main.69f66991.css.map": "/static/css/main.69f66991.css.map",
-    "main.cab88747.js.map": "/static/js/main.cab88747.js.map"
+    "main.css": "/Tourwithme-Landing-Page/static/css/main.69f66991.css",
+    "main.js": "/Tourwithme-Landing-Page/static/js/main.8111f6f7.js",
+    "static/media/Main.png": "/Tourwithme-Landing-Page/static/media/Main.1cec26612aec68a526b4.png",
+    "static/media/Sports 3.png": "/Tourwithme-Landing-Page/static/media/Sports 3.63ee458a87d454abd7dc.png",
+    "static/media/Sports 1.png": "/Tourwithme-Landing-Page/static/media/Sports 1.d4598665d0996e308eda.png",
+    "static/media/Sports 2.png": "/Tourwithme-Landing-Page/static/media/Sports 2.c32691d1137206d821fa.png",
+    "static/media/thailand.jpeg": "/Tourwithme-Landing-Page/static/media/thailand.b61105043a6c7bde9844.jpeg",
+    "static/media/maldives.jpeg": "/Tourwithme-Landing-Page/static/media/maldives.67e17c4bf668eaeab930.jpeg",
+    "static/media/quote.png": "/Tourwithme-Landing-Page/static/media/quote.1ef7e71df34e99647c4e.png",
+    "static/media/bali.jpeg": "/Tourwithme-Landing-Page/static/media/bali.d430ae555a5a773b3734.jpeg",
+    "static/media/footer.png": "/Tourwithme-Landing-Page/static/media/footer.ffc6901a3646a3262ee4.png",
+    "static/media/Scuba Diving txt.svg": "/Tourwithme-Landing-Page/static/media/Scuba Diving txt.adad577533ddd3768ee0e765b70f2437.svg",
+    "static/media/Sports txt.svg": "/Tourwithme-Landing-Page/static/media/Sports txt.dc41e3cc62685eeaed4e77ccf4a78d04.svg",
+    "static/media/Logo.png": "/Tourwithme-Landing-Page/static/media/Logo.beedd9891941c9d19540.png",
+    "static/media/Sky diving txt.svg": "/Tourwithme-Landing-Page/static/media/Sky diving txt.857cd48f449b155ed6d920fe15eee817.svg",
+    "static/media/Surfing txt.svg": "/Tourwithme-Landing-Page/static/media/Surfing txt.e4f28916dd1f3db4e980fe71708aa031.svg",
+    "index.html": "/Tourwithme-Landing-Page/index.html",
+    "main.69f66991.css.map": "/Tourwithme-Landing-Page/static/css/main.69f66991.css.map",
+    "main.8111f6f7.js.map": "/Tourwithme-Landing-Page/static/js/main.8111f6f7.js.map"
   },
   "entrypoints": [
     "static/css/main.69f66991.css",
-    "static/js/main.cab88747.js"
+    "static/js/main.8111f6f7.js"
   ]
 }
